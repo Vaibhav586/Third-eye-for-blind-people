@@ -35,3 +35,16 @@ Annotated Data: Annotated images or depth maps for improving model training and 
 
 Contributing
 We welcome contributions from the community! Please follow the standard GitHub fork/clone workflow and submit a pull request with your enhancements or bug fixes.
+
+How to Run the Code:
+Setup Ultralytics YOLOv8: Make sure to install the necessary YOLOv8 components before running the code:
+pip install ultralytics
+
+Run System Checks:
+python check.py
+
+Run IR Sensor Detection: Configure the IR sensor connected to the Raspberry Pi and run the following script:
+python IR.py
+
+Run Object Detection using YOLOv8: Perform object detection on an image using YOLOv8:
+python yolo_basic.py

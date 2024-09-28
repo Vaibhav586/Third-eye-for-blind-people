@@ -32,3 +32,6 @@ Design and Prototyping: Figma or Sketch for designing and prototyping the user i
 Training Data
 Object Detection Dataset: Use diverse datasets like the COCO dataset for training the object detection model.
 Annotated Data: Annotated images or depth maps for improving model training and accuracy.
+
+Contributing
+We welcome contributions from the community! Please follow the standard GitHub fork/clone workflow and submit a pull request with your enhancements or bug fixes.

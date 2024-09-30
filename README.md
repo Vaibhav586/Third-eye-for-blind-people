@@ -16,6 +16,9 @@ Speaker or Vibrating Motor: To provide real-time alerts for obstacles.
 Power Supply: Battery or power adapter for mobile usage.
 Enclosure: Housing to secure the components in a portable, user-friendly device.
 
+![image](https://github.com/user-attachments/assets/6c81bc35-56e0-4ead-a667-2820047db648)
+
+
 Software and Libraries
 Computer Vision: OpenCV for image processing and analysis.
 AI Framework: TensorFlow or PyTorch for developing and running object detection models.
